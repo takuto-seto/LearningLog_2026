@@ -1,0 +1,22 @@
+# --- Python 一時ファイル ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- 仮想環境 (Virtual Environments) ---
+# 自分のPC環境に依存するため、GitHubには上げないのが鉄則です
+venv/
+.venv/
+env/
+ENV/
+
+# --- エディタ・ツール設定 (VS Code / macOS) ---
+.vscode/
+.DS_Store
+
+# --- データ分析用 (Jupyter Notebook) ---
+.ipynb_checkpoints
+
+# --- 環境変数 (パスワードやAPIキー) ---
+# 将来的にAPIなどを使う際、ここに書いたファイルは公開されません
+.env
