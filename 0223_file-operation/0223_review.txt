@@ -1,0 +1,13 @@
+# 身についたこと
+
+
+# 実務で役にたつ想定場面
+
+# error
+
+```
+FileNotFoundError: [Errno 2] No such file or directory: 'old_file.txt' -> 'backup/new_file.txt'
+```
+
+
+# テキスト参照

@@ -28,5 +28,3 @@ Path オブジェクトの生成
 iterdir() によるディレクトリ内容の取得
 
 glob() によるパターンマッチング
-
-name, stem, suffix 等のプロパティ
