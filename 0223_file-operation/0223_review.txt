@@ -24,8 +24,6 @@ FileNotFoundError: [Errno 2] No such file or directory: 'old_file.txt' -> 'backu
 
 ## テキスト参照
 『Python実践レシピ』:
-
-2.1 パス操作 (pathlib) - rename(), mkdir()
-
-2.2 ファイル・ディレクトリ操作 (shutil) - copy()
+パス操作 (pathlib) - rename(), mkdir()
+ファイル・ディレクトリ操作 (shutil) - copy()
 
