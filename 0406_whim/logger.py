@@ -1,6 +1,5 @@
 from datetime import datetime
 from pathlib import Path
-import os.path
 
 base_path = Path(__file__).parent
 file_path = base_path / "log.txt"
